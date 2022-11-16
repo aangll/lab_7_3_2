@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Student\ri\matskula\lab7\lab_7_3_2\lab_7_3_2\Source.cpp(52): warning C4715: 'Max': not all control paths return a value
+C:\Student\ri\matskula\lab7\lab_7_3_2\lab_7_3_2\Source.cpp(84): warning C4715: 'noPlus': not all control paths return a value
+  lab_7_3_2.vcxproj -> C:\Student\ri\matskula\lab7\lab_7_3_2\x64\Debug\lab_7_3_2.exe
